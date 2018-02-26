@@ -1,5 +1,5 @@
 {
-  "name": "wechat-pay",
+  "name": "@walkthechat/wechat-pay",
   "version": "0.2.5",
   "description": "wechat payment api for document v3.3.5",
   "main": "index.js",
